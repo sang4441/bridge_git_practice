@@ -11,11 +11,6 @@
 
 
 ssh added
-ssh added 2
 
-이름 : 권명하
-전공 : 컴퓨터공학
-학년 : 4
-혈액형 : B
 
 sang test
